@@ -3,7 +3,7 @@
 <h3 align="center">Backend Developer | Web Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ2KJfCdd9d0c/giphy.gif" width="200" alt="coding GIF"/>
+ <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" alt="coding GIF"/>
 </p>
 
 ---
